@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab 3 Frases Celebres</string>
+    <string name="autor1">Charles Chaplin</string>
+    <string name="frase1">Aprende como si fueras a vivir toda la vida, y vive como si fueras a morir mañana</string>
+    <string name="autor2">Karl Marx</string>
+    <string name="frase2">La peor lucha es la que no se hace</string>
+    <string name="autor3">Stephen Hawking</string>
+    <string name="frase3">La inteligencia es la habilidad de adaptarse al cambio</string>
+    <string name="boton1">Generar No.</string>
+    <string name="boton2">MOSTRAR FRASE</string>
+    <string name="numAleatorio"></string>
+    <string name="autor">autor</string>
+    <string name="regresar">regresar</string>
+    <string name="frase">frase</string>
+    <string name="imagen_de_autor">imagen de autor</string>
+</resources>
